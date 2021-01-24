@@ -1,0 +1,3 @@
+plugins {
+  `taro-app-convensions`
+}
